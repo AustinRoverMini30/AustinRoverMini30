@@ -1,6 +1,5 @@
 ### Langages
-
-- **Python**
+- **Python**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
 
 - **Java**  
@@ -60,7 +59,7 @@
 - **Ubuntu**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="40" height="40"/>
 
-- **Windows 11**  
+- **Windows**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40"/>
 
 - **Linux**  
