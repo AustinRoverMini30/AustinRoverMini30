@@ -41,3 +41,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" />
+<img src="https://www.deviantart.com/cheguevara-sc/art/Windows-Mobile-6-5-logo-148667575" />
+
