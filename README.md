@@ -1,3 +1,88 @@
+# Nicolas Champy
+
+Étudiant en 2ème année de BUT Informatique à l'IUT de Laval  
+Laval (53000)
+
+---
+
+## 🛠️ **Compétences Techniques**
+
+### **Langages :**
+- **Programmation :** Python, Java, PHP, Bash, C, C++, C#, Javascript
+- **Base de données :** PL/SQL
+- **Langages de balisage :** CSS, JSON, HTML, FXML
+- **Projet :** UML
+
+### **Développement :**
+- **IDE :** IntelliJ Idea, Visual Studio, Eclipse, VSCode, CLion, PhpStorm
+- **Base de données :** modèle MERISE (GDF, MCD, MLD)
+- **Interfaces graphiques :** Figma, JavaFX, Pygame
+
+### **Projet**
+- **Gestion :** Cahier des charges, GANTT, PERT, Ishikawa
+- **Collaboration :** Git, GitHub, Microsoft Loop
+- **Systèmes d’exploitation :** Windows, Linux, Android, Windows Mobile
+
+### **Outils et Environnements :**
+- **IDE :** IntelliJ IDEA, Visual Studio, Eclipse, VSCode, CLion, PhpStorm
+- **Gestion de Projet :** Cahier des charges, GANTT, PERT, Ishikawa
+- **Collaboration :** Git, GitHub, Microsoft Loop
+
+---
+
+## **Expériences**
+
+## **Académiques :**
+
+### 🎮 **QuantumGames**
+- Bibliothèque de jeux vidéo développée en Java/JavaFX.
+- Rôle : Développement de la gestion de bibliothèque et exploitation de l’API RAWG.io.
+
+### ❎ **BNL’s Box Rel0aded**
+- Jeu de Morpion en Java/JavaFX.
+- Rôle : Conception et développement de l’interface graphique.
+
+## **Personnelles :**
+
+### 🛠️ **BNL's Box**
+- Application multifonctionnelle en Python/Pygame.
+- Objectif : Manipulation avancée de modules Python pour des outils variés.
+
+### 📥 **Téléchargeur YouTube**
+- Interface graphique en Java/JavaFX pour « yt-dlp.exe ».
+- Rôle : Surcouche à l'application console avec automatisation des téléchargements.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AustinRoverMini30&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinRoverMini30&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🧑‍🎓 **Formation**
+
+- **BUT Informatique**, 2ème année, IUT de Laval
+- **Bac Général**, mention Très Bien (2023) au Lycée JBLT NDM, Fougères (Mathématiques - NSI)
+
+---
+
+## 🌍 **Langues**
+
+- Français (langue maternelle)  
+- Anglais Technique (B1)
+
+---
+
+## 📚 **Centres d’Intérêt**
+
+- 🚗 Passion pour les véhicules d’époque (Austin Mini)  
+- 🎮 Jeux et romans d’aventure  
+- 🧩 Lego de collection  
+- 🛰️ Exploration spatiale robotisée (Voyager, Curiosity, MER)
+
+---
 <!--
 **AustinRoverMini30/AustinRoverMini30** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
@@ -12,42 +97,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Langages
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="60" height="60" />
-</div>
-
----
-
-### Logiciels
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" />
-</div>
-
----
-
-### OS
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" width="60" height="60" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" width="60" height="60" />
-<img src="https://betawiki.net/images/b/b7/Windows_Mobile_%282007%29.svg" width="60" height="60" />
-</div>
