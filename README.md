@@ -35,22 +35,27 @@ Laval (53000)
 ## **Académiques :**
 
 ### 🎮 **QuantumGames**
-- Bibliothèque de jeux vidéo développée en Java/JavaFX.
-- Rôle : Développement de la gestion de bibliothèque et exploitation de l’API RAWG.io.
+- **Description :** Bibliothèque de jeux vidéo en Java/JavaFX. Exploitation de l’API RAWG.io pour récupérer des données interactives.
+- **Rôle :** Développement de la gestion de la bibliothèque et exploitation de l'API.
+- **Statut :** Projet achevé, avec des améliorations occasionnelles.
 
 ### ❎ **BNL’s Box Rel0aded**
-- Jeu de Morpion en Java/JavaFX.
-- Rôle : Conception et développement de l’interface graphique.
+- **Description :** Jeu de Morpion développé en Java/JavaFX avec une interface graphique dynamique.
+- **Rôle :** Développement complet.
+- **Statut :** Projet achevé.
 
 ## **Personnelles :**
 
 ### 🛠️ **BNL's Box**
-- Application multifonctionnelle en Python/Pygame.
-- Objectif : Manipulation avancée de modules Python pour des outils variés.
+- **Description :** Application multifonctionnelle en Python/Pygame, intégrant divers modules pour des fonctionnalités personnalisées.
+- **Rôle :** Développement complet et maintenance occasionnelle.
+- **Statut :** Projet achevé.
+- Bande annonce : https://youtu.be/mxEVjy8BXr0
 
 ### 📥 **Téléchargeur YouTube**
-- Interface graphique en Java/JavaFX pour « yt-dlp.exe ».
-- Rôle : Surcouche à l'application console avec automatisation des téléchargements.
+- **Description :** Surcouche graphique en Java/JavaFX pour l'outil console « yt-dlp.exe ».
+- **Rôle :** Conception d’une interface pour simplifier les téléchargements.
+- **Statut :** En cours d’amélioration.
 
 ---
 
