@@ -1,6 +1,6 @@
 # Nicolas Champy
 
-Étudiant en 2ème année de BUT Informatique à l'IUT de Laval  
+Étudiant en 3ème année de BUT Informatique à l'IUT de Laval  
 Laval (53000)
 
 ---
