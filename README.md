@@ -68,7 +68,7 @@ Laval (53000)
 
 ## 🧑‍🎓 **Formation**
 
-- **BUT Informatique**, 2ème année, IUT de Laval
+- **BUT Informatique**, 3ème année, IUT de Laval
 - **Bac Général**, mention Très Bien (2023) au Lycée JBLT NDM, Fougères (Mathématiques - NSI)
 
 ---
